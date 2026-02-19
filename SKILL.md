@@ -3,7 +3,7 @@ name: multimedia-comedy-script
 description: Create comedy scripts that integrate visual elements (graphics, data displays, video clips) with specific cue markers for when and how to display supporting visuals—based on Hasan Minhaj's *Patriot...
 license: MIT
 metadata:
-  version: 1.0.4542
+  version: 1.0.4543
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
